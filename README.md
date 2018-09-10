@@ -1,4 +1,4 @@
-# Paittoni
+# [Paittoni](<https://lewskl.github.io/paittoni/>)
 
 Yläkouluille tarkoitettu suomenkielinen Python-ohjelmointitutoriaali.
 Tehty [Kerttulin ICT-lukion](<https://www.ictlukio.com/>) lopputyönä.
