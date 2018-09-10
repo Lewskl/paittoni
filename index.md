@@ -1,5 +1,5 @@
 ---
-title: Etusivu | Paittoni
+title: Etusivu
 ---
 # Mikä on Paittoni?
 
