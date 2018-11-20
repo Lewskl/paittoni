@@ -1,3 +1,4 @@
+$dark-bg-colour: #282838;
 html {
     font-size: 62.5%;
 }
@@ -12,8 +13,9 @@ body {
     margin: 0 auto;
 }
 
-header, footer {
-    background-color: #335;
+header,
+footer {
+    background-color: $dark-bg-color;
     color: #FFF;
     padding: 2%
 }
