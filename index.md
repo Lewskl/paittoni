@@ -1,6 +1,13 @@
 ---
 title: Etusivu
 ---
-# Mikä on Paittoni?
 
-Paittoni on suomenkielinen sivusto, jonka tarkoituksena on auttaa ohjelmoinnin oppimisessa Python-ohjelmointikieltä käyttäen. Kuten voi arvata, itse sana Paittoni on suomalainen väännelmä ohjelmointikielen nimestä. Sivusto on suunnattu erityisesti opetuskäyttöön, mutta se sopii kaikille aloitteleville ohjelmoijille.
+Paittoni auttaa lukijaa oppimaan ohjelmoinnin alkeet suomenkielisellä opastuksella ja helposti ymmärrettävillä esimerkeillä.
+Ohjelmointikielenä on ohjeen nimen mukaisesti [Python](https://www.python.org/).
+
+## Miksi Python?
+
+Pythonin kirjoitusasu on melko lähellä englannin kieltä, mikä tekee sen kirjoittamisesta ja lukemisesta helppoa myös aloittelijoille.
+Lisäksi Python on laajalti käytetty ohjelmointikieli, eli sitä käytettäessä kohdattuihin ongelmiin on helppo löytää ratkaisu netistä.
+Pythonilla kirjoitettujen ohjelmien suorittaminen vaatii myös vain yhden ohjelman asentamisen.
+
