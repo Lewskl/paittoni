@@ -5,33 +5,39 @@ body {
     font-size: 18px;
     position: relative;
     box-sizing: border-box;
-    padding: 55px 0;
+    padding: 55px 0 30px;
 }
 
 header,
 footer{
     background-color: $dark-bg-colour;
     color: #FFFF;
-    height: 50px;
     position: absolute;
     width: 100%;
 }
 
-.centre-wrapper {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 5px;
-}
-
 header {
+    height: 50px;
     font-size: 40px;
     top: 0;
+}
+
+footer {
+    height: 25px;
+    bottom: 0;
+}
+
+.header-link {
+    color: inherit;
+    text-decoration: none;
 }
 
 main {
     height: 100%;
 }
 
-footer {
-    bottom: 0;
+.centre-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 5px;
 }
