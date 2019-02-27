@@ -1,23 +1,37 @@
 $dark-bg-colour: #282838;
-html {
-    font-size: 62.5%;
-}
 
 body {
     font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
-    font-size: 1.8rem;
+    font-size: 18px;
+    position: relative;
+    box-sizing: border-box;
+    padding: 55px 0;
+}
+
+header,
+footer{
+    background-color: $dark-bg-colour;
+    color: #FFFF;
+    height: 50px;
+    position: absolute;
+    width: 100%;
 }
 
 .centre-wrapper {
     max-width: 900px;
     margin: 0 auto;
+    padding: 0 5px;
 }
 
-header,
+header {
+    font-size: 40px;
+    top: 0;
+}
+
+main {
+    height: 100%;
+}
+
 footer {
-    background-color: $dark-bg-colour;
-    color: #FFF;
-    padding: 1%;
+    bottom: 0;
 }
-
-header {font-size: 4rem;}
