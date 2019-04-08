@@ -2,7 +2,6 @@
 title: Alkuvalmistelut
 ---
 
-
 # Alkuvalmistelut
 
 Tietokoneohjelmia voi kirjoittaa millä tahansa tekstieditorilla, kuten esimerkiksi Windowsin muistiolla.
@@ -23,10 +22,12 @@ Kun olet ladannut asennusohjelman, suorita se. Oletusasetusten pitäisi sisält�
 
 <img src="{{ site.url }}/assets/images/idle-editor.png>" alt="IDLE-editori" height="576px" width="576px"/>
 
-
+Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](/helloworld/).
 
 ## En halua tai voi asentaa Pythonia tietokoneelleni, mitä teen?
 
 <a href="https://repl.it" target="_blank">Repl.it</a> on hyvä ja ilmainen verkkopohjainen ohjelmointiympäristö. Kun olet rekisteröitynyt, sinua pyydetään antamaan joitakin tietoja itsestäsi. Jos et halua antaa tietojasi, valitse sivun yläosasta **skip**. Paina seuraavaksi "**Start coding now**" ja valitse listasta Python. Nyt sinun pitäisi nähdä allaolevan kaltainen editori.
 
 <img src="{{ site.url }}/assets/images/replit-start.png>" alt="Replitin editori" height="422px" width="864px"/>
+
+Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](/helloworld/).
