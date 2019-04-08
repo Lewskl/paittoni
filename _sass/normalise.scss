@@ -16,6 +16,10 @@ body {
     box-sizing: inherit;
 }
 
+pre, code {
+    font-family: 'Courier New', Courier, monospace; 
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
