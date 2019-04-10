@@ -18,7 +18,7 @@ Esimerkiksi Mac-tietokoneissa saattaa olla jo Python asennettuna. Kyseessä on y
 
 Pythonin asennustiedostot löytyvät <a href="https://www.python.org/downloads/" target="_blank">Pythonin lataussivulta</a>. Windows-käyttäjät voivat vain painaa "**Download the latest version for Windows**"-tekstin alla olevaa isoa nappia. Mac- ja Linux-käyttäjät löytävät omat versionsa heti napin alapuolella olevista linkeistä. Latauslinkit löytyvät **Stable Releases** -listan ensimmäisestä kohdasta.
 
-Kun olet ladannut asennusohjelman, suorita se. Oletusasetusten pitäisi sisältää kaikki tarvittavat ominaisuudet. Käynnistä-valikosta tai ohjelmalistasta pitäisi nyt löytyä "IDLE", "IDLE (Python 3.7 32-bit)" tai jokin vastaavanniminen ohjelma. Suorita ohjelma ja valitse avautuvan ikkunan yläreunasta File > New File tai paina Control + N. Näytöllä pitäisi nyt olla kaksi ikkunaa, kuten allaolevassa kuvassa.
+Kun olet ladannut asennusohjelman, suorita se. Oletusasetusten pitäisi sisältää kaikki tarvittavat ominaisuudet. Käynnistä-valikosta tai ohjelmalistasta pitäisi nyt löytyä "IDLE", "IDLE (Python 3.7 32-bit)" tai jokin vastaavanniminen ohjelma. Suorita ohjelma ja valitse avautuvan ikkunan yläreunasta **File** > **New File** tai paina Control + N. Näytöllä pitäisi nyt olla kaksi ikkunaa, kuten allaolevassa kuvassa.
 
 <img src="{{ site.url }}/assets/images/idle-editor.png>" alt="IDLE-editori" height="576px" width="576px"/>
 
