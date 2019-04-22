@@ -3,41 +3,50 @@ $dark-bg-colour: #282838;
 body {
     font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    position: relative;
-    box-sizing: border-box;
-    padding: 55px 0 30px;
+}
+
+.page-wrap {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 header,
 footer{
     background-color: $dark-bg-colour;
     color: #FFFF;
-    position: absolute;
     width: 100%;
 }
 
 header {
-    height: 50px;
-    font-size: 40px;
-    top: 0;
+    flex: 0 0 50px;
 }
 
 footer {
-    height: 25px;
-    bottom: 0;
+    flex: 0 0 25px;
+    font-size: 12px;
 }
 
 .header-link {
     color: inherit;
     text-decoration: none;
+    font-size: 40px;
 }
 
 main {
-    height: 100%;
+    flex: 1 0 auto;
+    padding-bottom: 20px;
 }
 
 .centre-wrapper {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 5px;
+}
+
+pre {
+    background-color: #cccccc;
+    padding: 0 15px;
 }

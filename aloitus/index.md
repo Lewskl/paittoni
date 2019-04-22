@@ -20,7 +20,7 @@ Pythonin asennustiedostot löytyvät <a href="https://www.python.org/downloads/"
 
 Kun olet ladannut asennusohjelman, suorita se. Oletusasetusten pitäisi sisältää kaikki tarvittavat ominaisuudet. Käynnistä-valikosta tai ohjelmalistasta pitäisi nyt löytyä "IDLE", "IDLE (Python 3.7 32-bit)" tai jokin vastaavanniminen ohjelma. Suorita ohjelma ja valitse avautuvan ikkunan yläreunasta **File** > **New File** tai paina Control + N. Näytöllä pitäisi nyt olla kaksi ikkunaa, kuten allaolevassa kuvassa.
 
-<img src="{{ site.url }}/assets/images/idle-editor.png>" alt="IDLE-editori" height="576px" width="576px"/>
+<img src="{{ site.url }}/assets/images/idle-editor.png" alt="IDLE-editori" height="576px" width="576px"/>
 
 Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](/helloworld/).
 
@@ -28,6 +28,6 @@ Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](/helloworld/).
 
 <a href="https://repl.it" target="_blank">Repl.it</a> on hyvä ja ilmainen verkkopohjainen ohjelmointiympäristö. Kun olet rekisteröitynyt, sinua pyydetään antamaan joitakin tietoja itsestäsi. Jos et halua antaa tietojasi, valitse sivun yläosasta **skip**. Paina seuraavaksi "**Start coding now**" ja valitse listasta Python. Nyt sinun pitäisi nähdä allaolevan kaltainen editori.
 
-<img src="{{ site.url }}/assets/images/replit-start.png>" alt="Replitin editori" height="422px" width="864px"/>
+<img src="{{ site.url }}/assets/images/replit-start.png" alt="Replitin editori" height="422px" width="864px"/>
 
-Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](/helloworld/).
+Nyt olet valmis [kirjoittamaan ensimmäisen ohjelmasi](helloworld/).
