@@ -2,7 +2,7 @@
 title: Muuttujat
 ---
 
-# Muuttujat
+# 1. Muuttujat
 
 Ohjelmoinnissa käsitellään käytännössä aina joitain arvoja, kuten esimerkiksi lukuja tai listoja. Muuttujat ovat yksinkertaisesti sanottuna nimiä, jotka viittaavat arvoihin ja joita voi käyttää arvojen tilalla muualla ohjelmassa.
 

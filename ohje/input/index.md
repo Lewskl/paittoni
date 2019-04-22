@@ -2,7 +2,7 @@
 title: Syötteiden ottaminen
 ---
 
-# Syötteiden ottaminen
+# 5. Syötteiden ottaminen
 
 Monet ohjelmat perustuvat käyttäjän antaman tiedon käsittelemiseen. Pythonissa käyttäjän syötteitä otetaan `input()`-funktiolla. Funktio tulostaa sulkujen sisällä annetun merkkijonon ja pysäyttää sitten ohjelman suorituksen kunnes käyttäjä painaa enteriä. Funktio palauttaa käyttäjän syöttämän merkkijonon, joka voidaan esimerkiksi tallentaa muuttujaan.
 

@@ -2,7 +2,7 @@
 title: Yleisimmät tietotyypit
 ---
 
-# Yleisimmät tietotyypit
+# 2. Yleisimmät tietotyypit
 
 ## Luvut
 
@@ -26,6 +26,12 @@ Jos merkkijono sisältää sekä lainaus- että heittomerkkejä, voit laittaa ra
 
     "It's called \"fool's gold\" for a reason."
     'It\'s called "fool\'s gold" for a reason.'
+
+Kaksi lainausmerkkiä joiden välissä ei ole mitään ("") on tyhjä merkkijono.
+
+Muita arvoja voi muuttaa merkkijonoiksi `str()`-funktiolla. Funktion nimi tulee englannin kielen sanasta string, joka tarkoittaa merkkijonoa.
+
+    str(3.14159)
 
 ## Totuusarvot
 
@@ -56,7 +62,7 @@ Listaan voi lisätä alkioita `append()`-funktiolla. Sulkujen sisällä oleva ar
 
 ## Sanakirjat
 
-Sanakirjat ovat käytännössä listoja, joiden alkioilla on indeksin sijaan nimi. Nimet voivat olla esimerkiksi lukuja, merkkijonoja tai totuusarvoja. Sanakirjoissa käytetään hakasulkeiden sijaan aaltosulkeita, ja alkioiden nimien ja arvojen väliin tulee kaksoispiste.
+Sanakirjat ovat käytännössä listoja, joiden alkioilla on indeksin sijaan nimi eli avain. Avaimet voivat olla esimerkiksi lukuja, merkkijonoja tai totuusarvoja. Sanakirjoissa käytetään hakasulkeiden sijaan aaltosulkeita, ja alkioiden avaimien ja arvojen väliin tulee kaksoispiste.
 
     auto = {"merkki": "Audi", "vari": "valkoinen", "vuosi": 2016}
 

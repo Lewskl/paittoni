@@ -2,7 +2,7 @@
 title: Tekstin tulostaminen
 ---
 
-# Tekstin tulostaminen
+# 4. Tekstin tulostaminen
 
 Kuten alkukappaleessa todettiin, Pythonissa tekstiä tulostetaan `print()`-funktiolla. Tulostettavat asiat kirjoitetaan sulkeiden väliin pilkuilla erotettuna, jolloin niiden väliin tulee automaattisesti välilyönti.
 

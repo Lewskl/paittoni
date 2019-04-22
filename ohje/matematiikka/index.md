@@ -2,13 +2,13 @@
 title: Matematiikka
 ---
 
-# Matematiikka
+# 3. Matematiikka
 
-Kaikenlainen matematiikka on olennainen osa ohjelmointia. Peruslaskutoimitukset toimivat aivan samalla tavalla kuin muuallakin, mutta on hyvä tietää, että tietokoneympäristössä kertomerkki on "\*" ja jakomerkki "/". Lisäksi Pythonissa potenssimerkki on "\*\*"; esimerkiksi `3 ** 2` on 9. Kaikenlaisia laskutoimituksia voi tehdä käytännössä kaikkialla, sillä laskutoimituksen tulos on yksittäinen arvo.
+Kaikenlainen matematiikka on olennainen osa ohjelmointia. Peruslaskutoimitukset toimivat aivan samalla tavalla kuin muuallakin, mutta on hyvä tietää, että tietokoneympäristössä kertomerkki on "\*" ja jakomerkki "/". Lisäksi Pythonissa potenssimerkki on "\*\*"; esimerkiksi `3 ** 2` on 9. Kaikenlaisia laskutoimituksia voi tehdä käytännössä kaikkialla, sillä laskutoimituksen tulos on yksittäinen arvo. Laskujärjestys on tietysti sama kuin aina matematiikassa.
 
     x = 3
     y = x * 4
-    z = y - 2*x
+    z = (y - 2) * x
 
 ## Jakojäännös
 
