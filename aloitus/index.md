@@ -22,7 +22,7 @@ Kun olet ladannut asennusohjelman, suorita se. Oletusasetusten pit채isi sis채lt�
 
 <img src="{{ site.url }}/assets/images/idle-editor.png" alt="IDLE-editori" height="576px" width="576px"/>
 
-Nyt olet valmis [kirjoittamaan ensimm채isen ohjelmasi](/helloworld/).
+Nyt olet valmis [kirjoittamaan ensimm채isen ohjelmasi](helloworld/).
 
 ## En halua tai voi asentaa Pythonia tietokoneelleni, mit채 teen?
 
