@@ -31,9 +31,15 @@ footer {
 }
 
 .header-link {
-    color: inherit;
-    text-decoration: none;
     font-size: 40px;
+}
+
+.no-change:link,
+.no-change:hover,
+.no-change:active,
+.no-change:visited {
+    text-decoration: none;
+    color: inherit;
 }
 
 main {
